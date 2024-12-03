@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ## Usage:
 Before training, you need to:
 
-- Download  Datasets : [Pavia University](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes) / [Houston](https://hyperspectral.ee.uh.edu/?page_id=459) / [Chikusei](https://naotoyokoya.com/Download.html)
+- Download  Datasets : [Pavia University](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes) / [Houston](https://hyperspectral.ee.uh.edu/?page_id=459) / [Chikusei](https://naotoyokoya.com/Download.html).
 
 - Set the data path `-root` in ***args_parser.py***.
 
@@ -33,7 +33,7 @@ Before training, you need to:
 ### 1. Training 
 Use the following command to train the network. Take training LGCT in Houston dataset as an example,
 ```
-python main.py \
+ CUDA_VISIBLE_DEVICES=0 python -u python.py  \
     -arch 'LGCT' \
     -root '[root path of datasets]' \
     -dataset 'Houston' \
