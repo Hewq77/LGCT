@@ -2,7 +2,7 @@
 
 Official code repo for [LGCT: Local–Global Collaborative Transformer for Fusion of Hyperspectral and Multispectral Images](https://ieeexplore.ieee.org/document/10742406) (TGRS'24)  [[PDF]](https://github.com/Hewq77/LGCT/blob/main/Others/LGCT_pdf)
 
-Wangquan He, [Xiyou Fu](https://scholar.google.com/citations?user=DFgGGCQAAAAJ&hl=zh-CN&oi=ao), Nanying Li, Qi Ren and [Sen Jia](http://jiasen.tech/).
+Wangquan He, Xiyou Fu, Nanying Li, Qi Ren and Sen Jia.
 ## Network
 <figure>
 <img src=./Others/LGCT.png> 
