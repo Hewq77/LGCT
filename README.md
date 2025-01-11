@@ -57,10 +57,10 @@ If you find this work helpful, please consider citing it. We would greatly appre
   author={He, Wangquan and Fu, Xiyou and Li, Nanying and Ren, Qi and Jia, Sen},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   year={2024},
-  publisher={IEEE}
   volume={62},
   number={},
-  pages={1-14}
+  pages={1-14},
+  publisher={IEEE}
 }
 ```
 ## Acknowledgment
