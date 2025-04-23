@@ -23,7 +23,7 @@ https://ieeexplore.ieee.org/abstract/document/10742406
   author={He, Wangquan and Fu, Xiyou and Li, Nanying and Ren, Qi and Jia, Sen},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   year={2024},
-  publisher={IEEE}
+  publisher={IEEE},
   volume={62},
   pages={1-14}
 }
