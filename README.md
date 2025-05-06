@@ -63,5 +63,6 @@ If you find this work helpful, please consider citing it. We would greatly appre
   publisher={IEEE}
 }
 ```
-## Acknowledgment
-Some codes are brought from [BasicSR](https://github.com/XPixelGroup/BasicSR), [SSRNET](https://github.com/hw2hwei/SSRNET) and [BDT](https://github.com/shangqideng/BDT). We sincerely appreciate their contributions.
+## Others
+For any questions, please contact us [hewangquan2022@email.szu.edu.cn](hewangquan2022@email.szu.edu.cn).
+
