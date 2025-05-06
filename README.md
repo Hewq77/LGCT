@@ -64,5 +64,5 @@ If you find this work helpful, please consider citing it. We would greatly appre
 }
 ```
 ## Others
-For any questions, please contact us (hewangquan2022@email.szu.edu.cn)[hewangquan2022@email.szu.edu.cn].
+For any questions, please contact us (hewangquan2022@email.szu.edu.cn).
 
