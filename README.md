@@ -34,12 +34,13 @@ Before training, you need to:
 
   
 ### 1. Training 
-Use the following command to train the network. Take training LGCT in Houston dataset as an example,
+Use the following command to train the network. Take training LGCT ×4 in the Houston dataset as an example,
 ```
  CUDA_VISIBLE_DEVICES=0 python -u python.py  \
     -arch 'LGCT' \
     -root '[root path of datasets]' \
     -dataset 'Houston' \
+    --scale_ratio 4 \
     --model_path './checkpoints'\
     --n_epochs 10000 --lr 1e-4\
     --criterion 'L1' \
