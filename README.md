@@ -3,6 +3,9 @@
 Official code repo for [LGCT: Local–Global Collaborative Transformer for Fusion of Hyperspectral and Multispectral Images](https://ieeexplore.ieee.org/document/10742406) (TGRS'24)  [[PDF]](https://github.com/Hewq77/LGCT/blob/main/Others/LGCT_pdf)
 
 Wangquan He, Xiyou Fu, Nanying Li, Qi Ren and Sen Jia.
+## ✨ Updates
+- **2025.07.22**: We have uploaded the ×8 version of LGCT model (`/models/LGCT_arch_×8.py`) for fusion tasks.
+  
 ## Network
 <figure>
 <img src=./Others/LGCT.png> 
@@ -14,7 +17,7 @@ Wangquan He, Xiyou Fu, Nanying Li, Qi Ren and Sen Jia.
 To install dependencies:
 
 ```setup
-# create new anaconda env
+# create new Anaconda env
 conda create -n LGCT python=3.8 -y
 conda activate LGCT
 
