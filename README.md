@@ -2,10 +2,11 @@
 
 Official code repo for [LGCT: Local–Global Collaborative Transformer for Fusion of Hyperspectral and Multispectral Images](https://ieeexplore.ieee.org/document/10742406) (TGRS'24)  [[PDF]](https://github.com/Hewq77/LGCT/blob/main/Others/LGCT_pdf)
 
-Wangquan He, Xiyou Fu, Nanying Li, Qi Ren and Sen Jia.
+By [Wangquan He](https://scholar.google.com/citations?hl=zh-CN&user=tMZ30p8AAAAJ), [Xiyou Fu](https://scholar.google.com/citations?hl=zh-CN&user=DFgGGCQAAAAJ), [Nanying Li](https://scholar.google.com/citations?hl=zh-CN&user=NwzUe2YAAAAJ), Qi Ren and [Sen Jia](https://scholar.google.com/citations?user=UxbDMKoAAAAJ&hl=zh-CN&oi=ao).
 ## ✨ Updates
 - **2025.07.22**: We have uploaded the ×8 version of LGCT model (`/models/LGCT_arch_×8.py`) for fusion tasks.
-  
+- **2025.08.12**: We have released a version that removes the `img_size` parameter (`/models/LGCT_arch_×4/8_ar_v1.py`). Now supports images of any size automatically.
+
 ## Network
 <figure>
 <img src=./Others/LGCT.png> 
